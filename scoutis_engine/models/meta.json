@@ -1,0 +1,10 @@
+{
+  "model_version": "scoutis-v1",
+  "dim": 576,
+  "threshold": 0.0017546128423418848,
+  "calibration_samples": 130,
+  "calibration_seconds": 60,
+  "sample_every_n_frames": 5,
+  "device": "cuda",
+  "created_at": 1765568281
+}
